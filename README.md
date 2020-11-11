@@ -15,6 +15,7 @@ if you use the bot source, make sure to give credits!
 
 
 cd /honkboat/
+
 npm install discord.js 
 
 npm install node-fetch
