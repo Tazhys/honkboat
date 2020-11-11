@@ -23,10 +23,10 @@ client.on('message', async message => {
 
     var footer = `HJONK AM GOOSE!`;
     var title = `HJONK AM GOOSE!`;
-    var reportChannel = `773155364870422538`;
-    var error = `<:nooder_error:769241744814112788>`;
-    var success = `<:nooder_success:769241745057644584>`;
-    var info = `<:nooder_info:728307928234328135>`;
+    var reportChannel = ``;
+    var error = `ERROR_EMOJI_HERE`;
+    var success = `SUCCESS_EMOJI_HERE`;
+    var info = `INFO_EMOJI_HERE`;
 
     if (command === 'help') {
 
