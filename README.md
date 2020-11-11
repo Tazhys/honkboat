@@ -12,7 +12,12 @@ if you use the bot source, make sure to give credits!
 
 # How to run?
 
-npm install discord.js 
 
-# how to use the bot without sharding:
-cd /honk/ => node honkboat.js
+
+cd /honkboat/
+npm install discord.js 
+npm install node-fetch
+npm install moment
+npm install moment-duration-format
+
+node honkboat.js
